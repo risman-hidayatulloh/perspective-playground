@@ -1,4 +1,5 @@
-Section 3: Perspective Playground
-`Creating a Perspective Playground`
-`Copying to the Clipboard`
-`Extra Exercise: Copy Button`
+### Section 3: Perspective Playground
+
+1. `Creating a Perspective Playground`
+2. `Copying to the Clipboard`
+3. `Extra Exercise: Copy Button`
